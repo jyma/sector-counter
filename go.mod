@@ -1,5 +1,5 @@
 module github.com/KevinXiong2018/sector-counter
-
+test
 go 1.14
 
 require (
